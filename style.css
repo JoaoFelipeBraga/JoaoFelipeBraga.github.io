@@ -1,0 +1,347 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@300&display=swap');
+
+h1{ 
+    font-family: 'Russo One', sans-serif;
+    font-size: 3em;
+    color: #FFFFFF;
+    margin-left: 20px;
+}
+
+h2{
+    display: inline-block;
+    color: white;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+.h3i{
+    font-family: 'Mitr', sans-serif;
+    font-size: 2em;
+    display: block; 
+}
+
+.h3i2{
+    font-family: 'Mitr', sans-serif;
+    font-size: 3em;
+    display: block; 
+}
+
+.h3o{
+    font-family: 'Mitr', sans-serif;
+    font-size: 2em;
+    display: block;
+    position: absolute;
+    margin-left: 1300px;
+    top: 0px;
+    padding: 10px;
+}
+
+.h4i{
+    font-family: 'Mitr', sans-serif;
+    display: block;
+    position: absolute;
+    left: 1360px;
+    top: 260px;
+    font-size: 2em;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
+.h4o{
+    font-family: 'Mitr', sans-serif;
+    display: block;
+    position: absolute;
+    left: 1360px;
+    top: 128px;
+    font-size: 20px;
+    text-shadow: black 1px 1px 1px;
+    color: white;
+}
+
+.h4k{
+    font-family: 'Mitr', sans-serif;
+    display: block;
+    position: absolute;
+    left: 1360px;
+    top: 570px;
+    font-size: 26px;
+    text-shadow: black 1px 1px 1px;
+    color: white;
+}
+
+.h4j{
+    font-family: 'Mitr', sans-serif;
+    display: block;
+    position: absolute;
+    left: 1350px;
+    top: 433px;
+    font-size: 20px;
+    text-shadow: black 1px 1px 1px;
+    color: white;
+}
+
+.h4mi{
+    font-family: 'Mitr', sans-serif;
+    font-size: 25px;
+
+}
+
+p{
+    text-align: justify;
+    font-family: 'Mitr', sans-serif;
+    margin-right: 600px;
+}
+
+.div1{
+    overflow: hidden;
+}
+
+.div1 img{
+    max-width: 100%;
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.div1:hover img{
+    -moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.div2{
+    overflow: hidden;
+}
+
+.div2 img{
+    max-width: 100%;
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.div2:hover img{
+    -moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+body{
+     background-color: #F2F2F2;
+}
+
+main{
+    border-radius: 20px;
+    display:block;
+    position: absolute;
+    top: 240px;
+    margin: auto;
+    background-color: white;
+    border: 20px;
+   padding-left: 20px;
+   height: 730px;
+   width: 97%;
+}
+header{
+    background-color: #C4170C;
+    border:black ;
+    border-style: groove;
+    
+}
+
+ul{
+   text-transform: uppercase;
+   list-style: none;
+   display: block;
+   position: absolute;
+   top: 160px;
+   left: 0px;
+   color: black;
+}
+
+li{
+   display: inline-block;
+   margin: 10px;
+   padding: 10px;
+   background-color: #FFFFFF;
+   border: 3px;
+   border-style:groove;
+   
+  
+}
+
+a{
+    color: #000000;
+    text-decoration: none;
+}
+ 
+
+.img2{
+    height: 300px;
+    width: 450px;
+}
+
+.imgn1{
+    width: 500px;
+    height: 290px;
+    display: block;
+    position: absolute;
+    left: 1330px;
+    top: 140px;
+    border-radius: 10px;
+    
+}    
+
+.imgn2{
+    width: 500px;
+    height: 270px;
+    display: block;
+    position: absolute;
+    left: 1330px;
+    top: 450px;
+    border-radius: 10px;
+}
+
+.imgn1m{
+     width: 470px;
+     height: 240px;
+     display: block;
+     position: absolute;
+     left: 800px;
+     top: 203px;
+     border-radius: 10px;
+
+}
+
+.imgn2m{
+    width: 470px;
+     height: 240px;
+    display: block;
+    position: absolute;
+    left: 800px;
+    top: 465px;
+    border-radius: 10px;
+} 
+
+.h4im{
+    font-family: 'Mitr', sans-serif;
+    display: block;
+    position: absolute;
+    left: 840px;
+    top: 290px;
+    font-size: 30px;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
+.h4om{
+    font-family: 'Mitr', sans-serif;
+    display: block;
+    position: absolute;
+    left: 813px;
+    top: 187px;
+    font-size: 20px;
+    text-shadow: black 1px 1px 1px;
+    color: white;
+}
+
+.h4km{
+    font-family: 'Mitr', sans-serif;
+    display: block;
+    position: absolute;
+    left: 813px;
+    top: 570px;
+    font-size: 25px;
+    text-shadow: black 1px 1px 1px;
+    color: white;
+}
+
+.h4jm{
+    font-family: 'Mitr', sans-serif;
+    display: block;
+    position: absolute;
+    left: 813px;
+    top: 450px;
+    font-size: 20px;
+    text-shadow: black 1px 1px 1px;
+    color: white;
+}
+
+.vl {
+    border-right: 1px solid black;
+    height: 700px;
+    position: absolute;
+    left: 1300px;
+    margin-left: -3px;
+    top: 0;
+  }
+
+  .n1{
+      font-size: 20px;
+  }
+
+  .img3{
+      position: absolute;
+      left: 1260px;
+      top: 290px;
+      }
+
+ .img4{
+    position: absolute;
+    left: 1260px;
+    top: 500px;
+ }
+
+    h5{
+        font-size: 20px;
+    }
+
+    .h51{
+        display: block;
+        position: absolute;
+        left: 1260px;
+        top: 220px;
+    }
+    
+    .h52{
+        display: block;
+        position: absolute;
+        left: 1260px ;
+        top: 433px;
+    }
+
+    .img20{
+        position: absolute;
+        width: 500px;
+        height: 350px;
+        left: 1320px;
+        top: 270px;
+    }
+
+    .imgins{
+         width: 120px;
+         height: 120px;
+    }
+
+    .imgtt{
+        width: 120px;
+        height: 120px;
+    }
+
+    .imgf{
+        width: 120px;
+        height: 120px;
+    }
+
+   .bolsonaro{
+       height: 1000px;
+   }
+   .logo1 {
+       position: absolute;
+       padding-left: 1400px;
+       top: 20px;
+   }
